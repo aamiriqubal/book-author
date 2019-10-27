@@ -1,0 +1,19 @@
+body {
+  background: #EEE;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+app{
+  padding: 0 auto;
+  margin: 12px;
+  position: relative;
+}
+
+.add-book {
+  margin: 24px 12px;
+  padding: 12px auto;
+}
+
+.book-list{
+  margin: 30px auto auto 50px;
+}
